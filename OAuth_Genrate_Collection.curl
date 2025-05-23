@@ -1,0 +1,5 @@
+curl --location 'https://a2f5b684trial-trial.integrationsuitetrial-apim.us10.hana.ondemand.com/a2f5b684trial/v10/OAuthService' \
+--header 'Content-Type: application/x-www-form-urlencoded' \
+--data-urlencode 'client_id=yDNwEw4iJjBg6GWDeSs0lDZPiUbh1Eae' \
+--data-urlencode 'client_secret=N5ZzQlzgM8VdwA0r' \
+--data-urlencode 'grant_type=client_credentials'
